@@ -4,3 +4,4 @@ netlify用
 VScode practice
 
 こんにちは
+さようなら
